@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veeruj2000" alt="veeruj2000" /></a> </p>
 
-- 🔭 I’m currently working on **UJ Theatres**
+- 🌱 I’m currently working at **Arista Networks as a Professional Services Engineer**
 
-- 🌱 I’m currently learning **Java with Data Structure and algorithms**
+- 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Java Frameworks**
+- 🤝 I’m looking for help with **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://veeruj2000.github.io/ujcv/](https://veeruj2000.github.io/ujcv/)
 
